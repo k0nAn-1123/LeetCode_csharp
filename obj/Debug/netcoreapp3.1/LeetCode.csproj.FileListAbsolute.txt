@@ -11,3 +11,16 @@ E:\Code\VS2019\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.CoreCompileInput
 E:\Code\VS2019\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.dll
 E:\Code\VS2019\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.pdb
 E:\Code\VS2019\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.genruntimeconfig.cache
+D:\code\.netcore\test\LeetCode_csharp\bin\Debug\netcoreapp3.1\LeetCode.exe
+D:\code\.netcore\test\LeetCode_csharp\bin\Debug\netcoreapp3.1\LeetCode.deps.json
+D:\code\.netcore\test\LeetCode_csharp\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.json
+D:\code\.netcore\test\LeetCode_csharp\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.dev.json
+D:\code\.netcore\test\LeetCode_csharp\bin\Debug\netcoreapp3.1\LeetCode.dll
+D:\code\.netcore\test\LeetCode_csharp\bin\Debug\netcoreapp3.1\LeetCode.pdb
+D:\code\.netcore\test\LeetCode_csharp\obj\Debug\netcoreapp3.1\LeetCode.csprojAssemblyReference.cache
+D:\code\.netcore\test\LeetCode_csharp\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfoInputs.cache
+D:\code\.netcore\test\LeetCode_csharp\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfo.cs
+D:\code\.netcore\test\LeetCode_csharp\obj\Debug\netcoreapp3.1\LeetCode.csproj.CoreCompileInputs.cache
+D:\code\.netcore\test\LeetCode_csharp\obj\Debug\netcoreapp3.1\LeetCode.dll
+D:\code\.netcore\test\LeetCode_csharp\obj\Debug\netcoreapp3.1\LeetCode.pdb
+D:\code\.netcore\test\LeetCode_csharp\obj\Debug\netcoreapp3.1\LeetCode.genruntimeconfig.cache
